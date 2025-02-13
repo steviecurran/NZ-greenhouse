@@ -9,3 +9,5 @@ Again, using Python Dash, I built the dashboard, from which it is seen that “a
 Also, the Waikato and Auckland are the highest emitting regions overall. Lastly, by combining the data with population numbers, it is seen that there has been a decrease in emissions per capita over this period. However, the total amount remains roughly constant.
 
 The dashboad is currently acessible at http://steviecurran.pythonanywhere.com
+
+![](https://raw.githubusercontent.com/steviecurran/NZ-greenhouse/refs/heads/main/screen.png)
