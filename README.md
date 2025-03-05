@@ -9,4 +9,3 @@ Also, the Waikato and Auckland are the highest emitting regions overall. Lastly,
 
 The dashboad is currently acessible at http://steviecurran.pythonanywhere.com
 
-![](https://raw.githubusercontent.com/steviecurran/NZ-greenhouse/refs/heads/main/screen.png)
